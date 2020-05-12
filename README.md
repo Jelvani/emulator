@@ -1,31 +1,32 @@
-# Product Name
-> Short blurb about what your product does.
-
+# virtualMachine
+> A virtual machine that utilizes its own instruction set arcitecture and even comes with an assembler.
+<!--
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+ -->
+You can use this virtual machine as an entry into learning assembly, or even model your own virtual machine after this for educational purposes. 
 
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
 
 ## Installation
 
-OS X & Linux:
+To get started simply clone this repository
 
 ```sh
-npm install my-crazy-module --save
+git clone https://github.com/Jelvani/virtualMachine
 ```
 
-Windows:
+## Usage
 
+To get started, navigate to the directory of the reposity in Linux and run:
 ```sh
-edit autoexec.bat
+make
 ```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Now that the code is compiled, you can run the sample fibonnacci program that comes with the repository.
+First you must use the assembler to generate the machine code that is to be run:
+```sh
+git clone https://github.com/Jelvani/virtualMachine
+```
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
