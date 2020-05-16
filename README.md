@@ -44,9 +44,10 @@ You should see an output containing the state of each register after the executi
     * Alpha Release
     * TODO: Add access to memory
 
-## Meta
+## Authors
 
-Alborz Jelvani
+* **Alborz Jelvani** - *Initial Work* - [Personal Website](https:/alborzjelvani.com)
+
 
 <!--Distributed under the XYZ license. See ``LICENSE`` for more information.
 
