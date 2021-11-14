@@ -13,7 +13,7 @@ You can use this emulator as an entry into learning assembly, or even model your
 To get started simply clone this repository
 
 ```sh
-git clone https://github.com/Jelvani/virtualMachine
+git clone https://github.com/Jelvani/emulator
 ```
 
 ## Usage
@@ -55,7 +55,7 @@ You should see an output containing the state of each register after the executi
  -->
 ## Contributing
 
-1. Fork it (<https://github.com/Jelvani/virtualMachine>)
+1. Fork it (<https://github.com/Jelvani/emulator>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
